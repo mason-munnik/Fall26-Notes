@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "18d6360af91d6b1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa712a871bfc7a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aa11c056379a331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Language Concepts/Haskell/Types & Type Views.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types & Type Views"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8410cc5b8aa3927e",
+    "type": "split",
+    "children": [
+      {
+        "id": "45accafb00707e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc4cf6a9da3262c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4acf95f9c2636676",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "334cdec1d642842e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2486782cb0a9b92d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c28842aa798bc8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dc1aba5324c5e59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "fd71921947a84383",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "05a3cfce4bd84194",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee683a7df320e233",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "919b6f588aa8e8c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5aa11c056379a331",
+  "lastOpenFiles": [
+    "Programming Language Concepts/Haskell/Recursive Data Types.md",
+    "Programming Language Concepts/Haskell/Haskell MOC.md",
+    "Programming Language Concepts/Haskell/Recursion in Haskell.md",
+    "Programming Language Concepts/Haskell/Haskell Language Overview.md",
+    "Programming Language Concepts/Haskell/Data Types & Values.md",
+    "Operating Systems/Processes/Processes MOC.md",
+    "Programming Language Concepts/PLC-Lecture-Sept10.md",
+    "Programming Language Concepts/Raw Lecture Notes/PLC-Lecture-Sept10.md",
+    "Programming Language Concepts/Raw Lecture Notes/PLC Lecture 4 Sep 3.md",
+    "Programming Language Concepts/Raw Lecture Notes/PLC Lecture 2.md",
+    "Programming Language Concepts/Haskell/Recursive Data Types.md.tmp.13848.40e8ec470dd6",
+    "Programming Language Concepts/Haskell/Recursion in Haskell.md.tmp.13848.bc0d993013ee",
+    "Programming Language Concepts/Haskell/Data Types & Values.md.tmp.13848.ff08d8ae0a32",
+    "Programming Language Concepts/Haskell/Types & Type Views.md",
+    "Programming Language Concepts/Haskell/Types & Type Views.md.tmp.13848.98e2d612e38b",
+    "Programming Language Concepts/Haskell/Haskell Language Overview.md.tmp.13848.4c3d18871276",
+    "Programming Language Concepts/Haskell/Haskell MOC.md.tmp.13848.ca7d21deadbb",
+    "Programming Language Concepts/Raw Lecture Notes",
+    "Programming Language Concepts/Haskell",
+    "Operating Systems/Processes/CPU Virtualization & Process Concept.md",
+    "Operating Systems/Linux Shell/Streams, Redirection & Pipes.md",
+    "Operating Systems/Linux Shell/Shell Basics & Navigation.md",
+    "Operating Systems/Linux Shell/Linux Shell MOC.md",
+    "Operating Systems/Linux Shell/Exit Codes, Chaining & Scripting.md",
+    "Operating Systems/Linux Shell/Executables & Environment.md",
+    "Operating Systems/OS Lecture Sept 9.md",
+    "Operating Systems/OS Lecture 2 Aug 26.bak.md",
+    "Operating Systems/OS Lecture 2 Aug 26.md",
+    "Operating Systems/OS Lecture 1 Aug 24.md",
+    "Operating Systems/OS Lecture Sept 14.md",
+    "Operating Systems/OS Lecture Sept 9.bak.md",
+    "Operating Systems/OS Lecture 4 Aug 31.md",
+    "Operating Systems/Processes/Process Running States.md",
+    "Operating Systems/Processes/Process Running States.md.tmp.6124.39af43f2f267",
+    "Operating Systems/Processes/CPU Modes & Interrupts.md",
+    "Operating Systems/Processes/CPU Modes & Interrupts.md.tmp.6124.064356150aaa"
+  ]
+}
