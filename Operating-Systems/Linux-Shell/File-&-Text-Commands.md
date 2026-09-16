@@ -4,10 +4,10 @@ date: 2026-08-26
 course: CS3620 Operating Systems
 tags: [linux-shell, cli]
 related:
-  - "[[Linux Shell MOC]]"
-  - "[[Shell Basics & Navigation]]"
-  - "[[Executables & Environment]]"
-  - "[[Streams, Redirection & Pipes]]"
+  - "[[Linux-Shell-MOC]]"
+  - "[[Shell-Basics-&-Navigation]]"
+  - "[[Executables-&-Environment]]"
+  - "[[Streams,-Redirection-&-Pipes]]"
 ---
 
 # File & Text Commands
@@ -79,7 +79,7 @@ find [path] [options]
 - `-i` — ignore case
 - `-B <n>` / `-A <n>` — show `n` lines of context before/after a match
 - `-C <n>` — show `n` lines of context on both sides
-- `grep <string>` — process stdin input (see [[Streams, Redirection & Pipes]])
+- `grep <string>` — process stdin input (see [[Streams,-Redirection-&-Pipes]])
 
 **Exercise:** Use `grep` to write a shell command that accepts input from the keyboard and stores the lines containing "aaa" into a file named "tmp".
 

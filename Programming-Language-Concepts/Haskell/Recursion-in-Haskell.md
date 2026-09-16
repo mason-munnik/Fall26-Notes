@@ -4,8 +4,8 @@ date: 2026-09-10
 course: Programming Language Concepts
 tags: [haskell, recursion]
 related:
-  - "[[Haskell MOC]]"
-  - "[[Recursive Data Types]]"
+  - "[[Haskell-MOC]]"
+  - "[[Recursive-Data-Types]]"
 ---
 
 # Recursion in Haskell

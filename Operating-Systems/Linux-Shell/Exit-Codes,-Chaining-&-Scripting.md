@@ -4,9 +4,9 @@ date: 2026-08-26
 course: CS3620 Operating Systems
 tags: [linux-shell, bash-scripting]
 related:
-  - "[[Linux Shell MOC]]"
-  - "[[Streams, Redirection & Pipes]]"
-  - "[[Executables & Environment]]"
+  - "[[Linux-Shell-MOC]]"
+  - "[[Streams,-Redirection-&-Pipes]]"
+  - "[[Executables-&-Environment]]"
 ---
 
 # Exit Codes, Chaining & Scripting
@@ -55,7 +55,7 @@ related:
 
 - A script consists of multiple shell commands and must start with `#!/bin/bash`.
 - A string can be given directly to bash for execution: `bash -c "ls"`.
-- The script needs to be executable: `chmod +x <script>` (see [[Executables & Environment]]).
+- The script needs to be executable: `chmod +x <script>` (see [[Executables-&-Environment]]).
 - Scripts can access arguments via variables: `"$1"`, `"$2"`, `"$3"`, ...
 - Supports programming constructs (variables, if, for, functions, ...).
 - Reference: [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)

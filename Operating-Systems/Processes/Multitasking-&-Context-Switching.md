@@ -4,9 +4,9 @@ date: 2026-09-09
 course: CS3620 Operating Systems
 tags: [processes, multitasking]
 related:
-  - "[[Processes MOC]]"
-  - "[[Process State & PCB]]"
-  - "[[CPU Modes & Interrupts]]"
+  - "[[Processes-MOC]]"
+  - "[[Process-State-&-PCB]]"
+  - "[[CPU-Modes-&-Interrupts]]"
 ---
 
 # Multitasking & Context Switching
@@ -29,7 +29,7 @@ related:
 
 ## How a Process Switch Actually Happens (Timer-Driven)
 
-> Added from the Quiz 1 Study Guide — ties the three-step switch above to the hardware mechanism that triggers it (see [[CPU Modes & Interrupts]] for interrupts in general).
+> Added from the Quiz 1 Study Guide — ties the three-step switch above to the hardware mechanism that triggers it (see [[CPU-Modes-&-Interrupts]] for interrupts in general).
 
 - A **hardware timer** triggers an interrupt every X ms.
 - Inside the **timer interrupt handler**, the OS:

@@ -4,9 +4,9 @@ date: 2026-09-14
 course: CS3620 Operating Systems
 tags: [processes, process-state]
 related:
-  - "[[Processes MOC]]"
-  - "[[Process State & PCB]]"
-  - "[[CPU Modes & Interrupts]]"
+  - "[[Processes-MOC]]"
+  - "[[Process-State-&-PCB]]"
+  - "[[CPU-Modes-&-Interrupts]]"
 ---
 
 # Process Running States

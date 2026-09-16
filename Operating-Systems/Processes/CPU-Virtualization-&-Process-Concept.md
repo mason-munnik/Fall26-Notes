@@ -4,9 +4,9 @@ date: 2026-09-09
 course: CS3620 Operating Systems
 tags: [processes, cpu-virtualization]
 related:
-  - "[[Processes MOC]]"
-  - "[[Process State & PCB]]"
-  - "[[Multitasking & Context Switching]]"
+  - "[[Processes-MOC]]"
+  - "[[Process-State-&-PCB]]"
+  - "[[Multitasking-&-Context-Switching]]"
 ---
 
 # CPU Virtualization & Process Concept

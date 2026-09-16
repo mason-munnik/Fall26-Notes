@@ -4,9 +4,9 @@ date: 2026-09-09
 course: CS3620 Operating Systems
 tags: [processes, interrupts]
 related:
-  - "[[Processes MOC]]"
-  - "[[Multitasking & Context Switching]]"
-  - "[[Process Running States]]"
+  - "[[Processes-MOC]]"
+  - "[[Multitasking-&-Context-Switching]]"
+  - "[[Process-Running-States]]"
 ---
 
 # CPU Modes & Interrupts

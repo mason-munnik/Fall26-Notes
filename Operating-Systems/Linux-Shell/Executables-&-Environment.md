@@ -4,10 +4,10 @@ date: 2026-08-26
 course: CS3620 Operating Systems
 tags: [linux-shell, bash-scripting, permissions]
 related:
-  - "[[Linux Shell MOC]]"
-  - "[[Shell Basics & Navigation]]"
-  - "[[File & Text Commands]]"
-  - "[[Exit Codes, Chaining & Scripting]]"
+  - "[[Linux-Shell-MOC]]"
+  - "[[Shell-Basics-&-Navigation]]"
+  - "[[File-&-Text-Commands]]"
+  - "[[Exit-Codes,-Chaining-&-Scripting]]"
 ---
 
 # Executables & Environment

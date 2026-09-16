@@ -4,8 +4,8 @@ date: 2026-08-27
 course: Programming Language Concepts
 tags: [haskell, functional-programming]
 related:
-  - "[[Haskell MOC]]"
-  - "[[Types & Type Views]]"
+  - "[[Haskell-MOC]]"
+  - "[[Types-&-Type-Views]]"
 ---
 
 # Haskell Language Overview

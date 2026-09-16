@@ -4,9 +4,9 @@ date: 2026-09-03
 course: Programming Language Concepts
 tags: [haskell, types]
 related:
-  - "[[Haskell MOC]]"
-  - "[[Haskell Language Overview]]"
-  - "[[Data Types & Values]]"
+  - "[[Haskell-MOC]]"
+  - "[[Haskell-Language-Overview]]"
+  - "[[Data-Types-&-Values]]"
 ---
 
 # Types & Type Views

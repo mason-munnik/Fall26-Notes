@@ -4,9 +4,9 @@ date: 2026-09-03
 course: Programming Language Concepts
 tags: [haskell, data-types]
 related:
-  - "[[Haskell MOC]]"
-  - "[[Types & Type Views]]"
-  - "[[Recursive Data Types]]"
+  - "[[Haskell-MOC]]"
+  - "[[Types-&-Type-Views]]"
+  - "[[Recursive-Data-Types]]"
 ---
 
 # Data Types & Values

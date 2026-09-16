@@ -13,4 +13,6 @@
 	- The only initial differences:
 		- Process ID (pid)
 		- The return value of fork
-		- 
+	- However, it could later "mutate"
+	- All processes are created forking from init (pid 1)
+- Processes are created in a tree structure

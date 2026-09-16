@@ -4,9 +4,9 @@ date: 2026-09-10
 course: Programming Language Concepts
 tags: [haskell, recursive-types, data-types]
 related:
-  - "[[Haskell MOC]]"
-  - "[[Recursion in Haskell]]"
-  - "[[Data Types & Values]]"
+  - "[[Haskell-MOC]]"
+  - "[[Recursion-in-Haskell]]"
+  - "[[Data-Types-&-Values]]"
 ---
 
 # Recursive Data Types

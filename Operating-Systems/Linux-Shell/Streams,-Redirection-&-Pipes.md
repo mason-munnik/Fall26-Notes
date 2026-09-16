@@ -4,9 +4,9 @@ date: 2026-08-26
 course: CS3620 Operating Systems
 tags: [linux-shell, cli]
 related:
-  - "[[Linux Shell MOC]]"
-  - "[[File & Text Commands]]"
-  - "[[Exit Codes, Chaining & Scripting]]"
+  - "[[Linux-Shell-MOC]]"
+  - "[[File-&-Text-Commands]]"
+  - "[[Exit-Codes,-Chaining-&-Scripting]]"
 ---
 
 # Streams, Redirection & Pipes
@@ -65,7 +65,7 @@ Examples:
 
 > **Cues:** `|`, connecting stdout to stdin
 
-**Notes:** Commands like `grep` (see [[File & Text Commands]]) are typically used with **pipes**: `|`
+**Notes:** Commands like `grep` (see [[File-&-Text-Commands]]) are typically used with **pipes**: `|`
 
 - `<command1> | <command2>` connects the stdout of command1 to the stdin of command2.
 

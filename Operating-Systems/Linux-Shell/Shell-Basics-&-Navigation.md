@@ -4,9 +4,9 @@ date: 2026-08-26
 course: CS3620 Operating Systems
 tags: [linux-shell, cli]
 related:
-  - "[[Linux Shell MOC]]"
-  - "[[File & Text Commands]]"
-  - "[[Executables & Environment]]"
+  - "[[Linux-Shell-MOC]]"
+  - "[[File-&-Text-Commands]]"
+  - "[[Executables-&-Environment]]"
 ---
 
 # Shell Basics & Navigation
